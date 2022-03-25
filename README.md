@@ -8,3 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on matcha : Online dating service
 - 🌱 I’m currently learning react and python
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etakouer&layout=compact&theme=dark)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=etakouer&show_icons=true&theme=dark)
